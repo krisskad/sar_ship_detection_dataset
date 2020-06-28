@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>split_1_all_images</folder>
+  <filename>ship02016082201018011</filename>
+  <path>ship02016082201018011.xml</path> 
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>ship</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>49</xmin>
+      <ymin>134</ymin>
+      <xmax>106</xmax>
+      <ymax>178</ymax>
+    </bndbox>
+  </object>
+</annotation>

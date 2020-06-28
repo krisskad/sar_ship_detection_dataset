@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>2017110301</folder>
+  <filename>ship02017110301044052</filename>
+  <path>F:\ship\originaldataset\20171103\2017110301\ship02017110301044052.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>ship</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>2</xmin>
+      <ymin>173</ymin>
+      <xmax>35</xmax>
+      <ymax>224</ymax>
+    </bndbox>
+  </object>
+</annotation>

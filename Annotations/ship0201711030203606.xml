@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>2017110302</folder>
+  <filename>ship0201711030203606</filename>
+  <path>ship0201711030203606.xml</path> 
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>ship</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>134</xmin>
+      <ymin>38</ymin>
+      <xmax>184</xmax>
+      <ymax>53</ymax>
+    </bndbox>
+  </object>
+</annotation>
